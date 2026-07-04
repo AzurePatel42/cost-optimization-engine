@@ -1,3 +1,10 @@
+# cost-optimization-engine
+
+⚠️ V1 system
+
+Evolved into:
+
+👉 patel-cost-intelligence (future / active system)
 # 💰 Cost Optimization Engine (V1)
 
 A rule-based system that analyzes cloud and SaaS resource usage and generates cost-saving recommendations.
